@@ -2,7 +2,7 @@
 
 Assignment of the Being The Parent Organisation with all the following things:
 - [x] Login Screen
-- [ ] Signup Screen
-- [ ] Home Screen
-- [ ] Story Section
-- [ ] Story Upload
+- [x] Signup Screen
+- [x] Home Screen
+- [x] Story Section
+- [x] Story Upload
